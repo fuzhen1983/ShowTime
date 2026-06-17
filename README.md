@@ -15,8 +15,8 @@
 
 ## 📥 下载与安装
 
-### 推荐方式：Microsoft Store（最安全、无弹窗）
-[![Get it from Microsoft](https://img.shields.io/badge/Microsoft%20Store-下载-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/store/detail/YOUR_APP_ID) <!-- 上架后替换链接 -->
+### 推荐方式：Microsoft Store（最安全、无弹窗，但有可能无法及时获取最新版）
+[![Get it from Microsoft](https://img.shields.io/badge/Microsoft%20Store-下载-0078D4?style=for-the-badge&logo=microsoft)](https://apps.microsoft.com/detail/9n654t2v4b20?hl=zh&gl=CN&ocid=pdpshare) <!-- 上架后替换链接 -->
 
 从微软商店安装可获得自动更新，且**不会出现安全警告**。
 
