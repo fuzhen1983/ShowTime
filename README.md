@@ -4,7 +4,7 @@
 
 无论你是需要专注工作的程序员、追求沉浸感的设计师，还是在课堂上需要清晰展示时间的讲师，ShowTime 都能让你的桌面时间既美观又实用。
 
-![ShowTime Screenshot](https://showtime.jsonee.com/showtime-1.png) 
+![ShowTime Screenshot](https://showtime.jsonee.com/images/showtime-1.png) 
 
 ## ✨ 功能特性
 
