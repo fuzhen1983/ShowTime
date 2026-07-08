@@ -25,7 +25,7 @@
 
 > ⚠️ **关于 Windows 安全提示（重要）**
 >
-> 由于 ShowTime 是个人独立开发项目，尚未购买昂贵的商业代码签名证书，Windows SmartScreen 在首次运行从 GitHub 下载的文件时可能会弹出红色警告：
+> 由于 ShowTime 是个人项目，尚未购买商业代码签名证书，Windows SmartScreen 在首次运行从 GitHub 下载的文件时可能会弹出红色警告：
 >
 > **“Windows 已保护你的电脑”**
 >
